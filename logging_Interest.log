@@ -1,0 +1,6 @@
+2020-02-23 19:39:50 INFO  InterestApplication:10 - Control entered the SimpleInterest method
+2020-02-23 19:39:50 INFO  InterestApplication:12 - Control exited the SimpleInterest method
+2020-02-23 19:39:50 INFO  InterestApplication:14 - Simple Interest is 6300.0
+2020-02-23 19:39:50 INFO  InterestApplication:17 - Control entered the CompoundInterest method
+2020-02-23 19:39:50 INFO  InterestApplication:20 - Control exited the CompoundInterest method
+2020-02-23 19:39:50 INFO  InterestApplication:18 - Compound Interest is 615.0
